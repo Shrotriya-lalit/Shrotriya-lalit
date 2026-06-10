@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shrotriya-lalit&label=profile+views&color=9D4EDD&style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=Shrotriya-lalit&label=VISITORS&color=9D4EDD&style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -112,6 +112,15 @@ When I'm not building, I'm studying for the CFA — because the better you under
 <div align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=Shrotriya-lalit&theme=tokyonight&hide_border=true&background=0d1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD" />
 </div>
+
+<br/>
+
+---
+
+## &nbsp;✦&nbsp; recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <br/>
 
