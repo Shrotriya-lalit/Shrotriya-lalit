@@ -129,14 +129,15 @@ When I'm not building, I'm studying for the CFA — because the better you under
 ## &nbsp;✦&nbsp; contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/main/metrics/overview.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/main/metrics/header.svg" width="49%" />
   <img src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/main/metrics/languages.svg" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/main/metrics/achievements.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/main/metrics/calendar.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/main/metrics/fortune.svg" width="49%" />
 </div>
 
 <br/>

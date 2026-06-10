@@ -13,18 +13,16 @@ jobs:
 
     steps:
 
-      - name: Overview — header + 3D calendar
+      - name: Header — name, joined, followers, repos
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics/overview.svg
+          filename: metrics/header.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: Shrotriya-lalit
           template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Kolkata
           config_padding: 6%, 10%
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
 
       - name: Languages
         uses: lowlighter/metrics@latest
@@ -40,16 +38,23 @@ jobs:
           plugin_languages_categories: markup, programming
           config_timezone: Asia/Kolkata
 
-      - name: Achievements
+      - name: Contribution Calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics/achievements.svg
+          filename: metrics/calendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: Shrotriya-lalit
           base: ""
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
-          plugin_achievements_secrets: yes
-          plugin_achievements_display: compact
-          plugin_achievements_limit: 0
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          config_timezone: Asia/Kolkata
+
+      - name: Fortune
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/fortune.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Shrotriya-lalit
+          base: ""
+          plugin_fortune: yes
           config_timezone: Asia/Kolkata
