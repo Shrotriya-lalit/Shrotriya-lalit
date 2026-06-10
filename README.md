@@ -23,7 +23,7 @@
 
 ---
 
-## &nbsp;✦&nbsp; hey, i'm lalit
+## 🧠 About Me
 
 I'm drawn to problems that live at the edge of what AI can currently do.
 
@@ -37,7 +37,7 @@ When I'm not building, I'm studying for the CFA — because the better you under
 
 ---
 
-## &nbsp;✦&nbsp; what i'm working on
+## 🚀 What I'm Building
 
 | | Project | What it does |
 |:--:|---------|--------------|
@@ -50,7 +50,7 @@ When I'm not building, I'm studying for the CFA — because the better you under
 
 ---
 
-## &nbsp;✦&nbsp; the craft
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -100,7 +100,13 @@ When I'm not building, I'm studying for the CFA — because the better you under
 
 ---
 
-## &nbsp;✦&nbsp; github stats
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shrotriya-lalit&theme=dracula&no-bg=true&no-frame=true&column=6&margin-w=10&margin-h=10" />
+</div>
+
+<br/>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shrotriya-lalit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9" />
@@ -117,17 +123,54 @@ When I'm not building, I'm studying for the CFA — because the better you under
 
 ---
 
-## &nbsp;✦&nbsp; activity
+## 📈 Metrics
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrotriya-lalit&bg_color=0d1117&color=9D4EDD&line=9D4EDD&point=b39ddb&area=true&area_color=9D4EDD&hide_border=true" />
+  <img src="metrics/overview.svg" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="metrics/languages.svg" width="49%" />
+  <img src="metrics/habits.svg" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="metrics/achievements.svg" />
 </div>
 
 <br/>
 
 ---
 
-## &nbsp;✦&nbsp; things i've written
+## 🐍 Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season.svg" />
+    <img alt="3D contribution graph" src="profile-3d-contrib/profile-night-rainbow.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+---
+
+## 📄 Research & Publications
 
 | Paper | Venue | Year |
 |-------|-------|------|
@@ -145,7 +188,7 @@ When I'm not building, I'm studying for the CFA — because the better you under
 
 ---
 
-## &nbsp;✦&nbsp; a few things i'm proud of
+## 🏆 Recognition
 
 - won a firm-wide AI hackathon with an interview platform built in days, not weeks
 - published in elsevier, ieee and iieta before graduating
