@@ -1,150 +1,140 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Lalit%20Shrotriya&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=I%20build%20AI%20that%20reasons.%20I%20ship%20code%20that%20scales.&descAlignY=60&descSize=17&descColor=ccc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Lalit%20Shrotriya&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=building%20at%20the%20edge%20of%20what%20AI%20can%20do&descAlignY=62&descSize=16&descColor=b39ddb" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=720&lines=I+don%27t+just+study+AI+%E2%80%94+I+ship+it.;Agentic+AI+%7C+RAG+%7C+LLMs+%7C+Production-grade;Researcher.+Engineer.+Hackathon+Winner.;Always+building.+Never+stopping." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1200&color=9D4EDD&center=true&vCenter=true&random=false&width=600&lines=somewhere+between+research+papers+and+production+systems;building+AI+that+reasons+%E2%80%94+not+just+responds;curious+by+nature+%C2%B7+engineer+by+craft;always+learning+%C2%B7+always+shipping" alt="Typing SVG" />
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalit-shrotriya/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrotriya-lalit)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=90FqbB0AAAAJ&hl=en)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Lalit_Shrotriya)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lalit.shrotriya@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalit-shrotriya/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shrotriya-lalit)
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=90FqbB0AAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Lalit_Shrotriya)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:lalit.shrotriya@outlook.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shrotriya-lalit&label=Profile+Views&color=9D4EDD&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Shrotriya-lalit&label=visitors&color=9D4EDD&style=flat-square)
 
 </div>
 
----
+<br/>
 
-## Hey, I'm Lalit 👋
+## &nbsp;✦ &nbsp;hey, i'm lalit
 
-I build **Agentic AI** — systems that don't just respond, they reason, plan, and act.
+I'm drawn to problems that live at the edge of what AI can currently do.
 
-From RAG pipelines and LLM orchestration across Vertex AI, Bedrock and Ollama, to real-time anomaly detection and event-driven data platforms — I work where **research meets production**. If it doesn't run in the real world under real load, it doesn't count.
+Agentic systems that plan across multiple steps. RAG pipelines that understand context rather than just retrieve it. Real-time anomaly detectors that surface what humans would miss. That's the space I work in — and it never gets boring.
 
-**Published** in Elsevier, IEEE and IIETA. **Ranked 2nd** in CSE AI/ML. **Won** a firm-wide AI hackathon. **Contributing** to open-source. **Studying** for the CFA.
+I came into AI through research — medical imaging, financial ML, big data in healthcare — and landed in production engineering. I do both now, and I think that's the most interesting place to be: where a paper becomes a system that runs under real load, serves real users, and changes real decisions.
 
-> *"The next frontier isn't generating answers — it's giving AI the right context to find them."*
+When I'm not building, I'm studying for the CFA — because the better you understand the domain your models serve, the sharper your work becomes.
 
----
+<br/>
 
-## ⚡ What I Build
+## &nbsp;✦ &nbsp;what i'm working on
 
-| Project | Description | Impact |
-|---------|-------------|--------|
-| **ClawMetrics** | Agentic analytics engine — 13 custom tools over ClickHouse/PostgreSQL, autonomous multi-step reasoning, AI-authored dashboards from natural-language queries | ₹35L/yr savings vs. Mixpanel |
-| **[Intellecto](https://github.com/Shrotriya-lalit/AI-Interview-Platform)** | Real-time AI interview platform — ML-driven scoring, ASR/TTS, anti-cheat, JWT/RBAC | 🏆 Won Thrive-A-Thon 1.0 |
-| **VisionGen3D** | 3D facial synthesis with Style-GAN + NeRF for defense/intelligence | Outperforms baseline NeRF |
-| **OpenPanel OSS** | BigQuery Warehouse Connector + Export API + Event Metadata enhancements | PRs [#389](https://github.com/Openpanel-dev/openpanel/pull/389) [#390](https://github.com/Openpanel-dev/openpanel/pull/390) [#391](https://github.com/Openpanel-dev/openpanel/pull/391) |
+| | Project | What it does |
+|--|---------|--------------|
+| 🧠 | **ClawMetrics** | Agentic analytics engine — natural language in, dashboards and insights out. 13 custom tools over ClickHouse/PostgreSQL |
+| 🎙️ | **[Intellecto](https://github.com/Shrotriya-lalit/AI-Interview-Platform)** | AI-powered interviews — real-time voice, ML scoring, anti-cheat. Won Thrive-A-Thon 1.0 |
+| 👁️ | **VisionGen3D** | 3D face synthesis from scratch — Style-GAN meets NeRF, built for defense use-cases |
+| 🔗 | **OpenPanel OSS** | BigQuery connector + API enhancements for the open-source analytics platform |
 
----
+<br/>
 
-## 🛠️ Tech Stack
-
-**Languages & Data Engineering**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-
-**Machine Learning & Deep Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Generative AI & LLMs**
-
-![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
-
-**Vector Databases & Semantic Search**
-
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
-
-**Data Platforms & Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
-
-**Backend & Infrastructure**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-**Cloud Platforms**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## &nbsp;✦ &nbsp;the craft
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shrotriya-lalit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrotriya-lalit&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D4EDD&text_color=c9d1d9" />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=flat-square&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+
+</div>
+
+<br/>
+
+## &nbsp;✦ &nbsp;github
+
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Shrotriya-lalit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrotriya-lalit&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D4EDD&text_color=c9d1d9" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Shrotriya-lalit&theme=tokyonight&hide_border=true&background=0d1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD" />
 </div>
 
----
+<br/>
 
-## 🐍 Contribution Snake
+## &nbsp;✦ &nbsp;contributions
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/output/github-snake.svg" />
   </picture>
 </div>
 
----
+<br/>
 
-## 📄 Research & Publications
+## &nbsp;✦ &nbsp;things i've written
 
 | Paper | Venue | Year |
 |-------|-------|------|
-| [Apache Spark in Healthcare: Data-Driven Innovations](https://dx.doi.org/10.14569/IJACSA.2023.0140665) | **IJACSA** (Q3) · 16 citations | 2023 |
-| [Real-Time Data Analysis: Architectures for Decision-Making](https://scholar.google.com/citations?user=90FqbB0AAAAJ) | **IEEE ICPEEISC** · 7 citations | 2023 |
-| [Brain Tumor Detection Using Advanced Deep Learning](https://doi.org/10.18280/ts.400508) | **IIETA — Traitement du Signal** (Q3) | 2023 |
-| [Pneumothorax Detection: Mask-RCNN + Transfer Learning](https://doi.org/10.1016/j.mex.2024.102692) | **Elsevier MethodsX** (Scopus Q2) | 2024 |
-| [Deep Learning for Hedging Strategies in Derivative Markets](https://doi.org/10.1109/ICISAA62385.2024.10829090) | **IEEE ICISAA** | 2024 |
+| [Apache Spark in Healthcare: Data-Driven Innovations](https://dx.doi.org/10.14569/IJACSA.2023.0140665) | IJACSA · Q3 · 16 citations | 2023 |
+| [Real-Time Data Analysis: Architectures for Decision-Making](https://scholar.google.com/citations?user=90FqbB0AAAAJ) | IEEE ICPEEISC · 7 citations | 2023 |
+| [Brain Tumor Detection Using Advanced Deep Learning](https://doi.org/10.18280/ts.400508) | IIETA Traitement du Signal · Q3 | 2023 |
+| [Pneumothorax Detection: Mask-RCNN + Transfer Learning](https://doi.org/10.1016/j.mex.2024.102692) | Elsevier MethodsX · Scopus Q2 | 2024 |
+| [Deep Learning for Hedging in Derivative Markets](https://doi.org/10.1109/ICISAA62385.2024.10829090) | IEEE ICISAA | 2024 |
 
-> **7 Publications · 25+ Citations · h-index: 2** &nbsp;|&nbsp; [Google Scholar](https://scholar.google.com/citations?user=90FqbB0AAAAJ&hl=en) &nbsp;·&nbsp; [ResearchGate](https://www.researchgate.net/profile/Lalit_Shrotriya)
+<div align="right">
+  <sub>7 publications · 25+ citations · h-index 2 · <a href="https://scholar.google.com/citations?user=90FqbB0AAAAJ&hl=en">Google Scholar</a> · <a href="https://www.researchgate.net/profile/Lalit_Shrotriya">ResearchGate</a></sub>
+</div>
 
----
+<br/>
 
-## 🏆 Recognition
+## &nbsp;✦ &nbsp;a few things i'm proud of
 
-- 🥇 **Thrive-A-Thon 1.0 Winner** — *Intellecto, AI Interview Platform* (2025)
-- ☁️ **Google Cloud Certified** — Generative AI Leader
-- 🚀 **Roadies Debut Award** — Best newcomer, Jan–Mar 2024
-- 🎓 **Ranked 2nd · B.Tech CSE AI/ML** — CGPA 9.00 · SIT Pune
-- 📊 **DBM Topper** — CGPA 8.78 · SIBM Pune
-- 📚 **AI Research Fellow** — SCAAI, Symbiosis International University
+- won a firm-wide AI hackathon with an interview platform built in days, not weeks
+- published in elsevier, ieee and iieta before graduating
+- ranked 2nd in my AI/ML program · topped business management
+- systems i've built are saving real money and handling real traffic
+- google cloud certified in generative AI
 
----
+<br/>
+
+<div align="center">
+  <sub><i>always curious · always building · somewhere between a paper and a product</i></sub>
+</div>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" />
