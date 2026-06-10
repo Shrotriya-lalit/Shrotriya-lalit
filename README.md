@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a14,50:0f0c29,100:0a0a14&height=120&section=header&text=Lalit%20Shrotriya&fontSize=52&fontColor=9D4EDD&animation=blinking&fontAlignY=50&desc=Senior%20Data%20Scientist%20%7C%20AI%20Researcher%20%7C%20CFA%20L1%20Candidate&descAlignY=70&descSize=16&descColor=b39ddb&stroke=302b63&strokeWidth=2" />
+<img width="100%" src="terminal-banner.svg" />
 
 <div align="center">
 
@@ -188,10 +188,4 @@ When I'm not building, I'm studying for the CFA — because the better you under
 
 <br/>
 
-<div align="center">
-  <sub><i>always curious &nbsp;·&nbsp; always building &nbsp;·&nbsp; somewhere between a paper and a product</i></sub>
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a14,50:0f0c29,100:0a0a14&height=60&section=footer&stroke=302b63&strokeWidth=2" />
+<img width="100%" src="terminal-footer.svg" />

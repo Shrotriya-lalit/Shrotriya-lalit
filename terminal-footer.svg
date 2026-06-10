@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 48" width="100%">
+  <defs>
+    <style>
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+      .cursor { animation: blink 1.1s step-end infinite; }
+    </style>
+  </defs>
+  <rect width="800" height="48" rx="8" fill="#0d1117"/>
+  <line x1="0" y1="0" x2="800" y2="0" stroke="#30363d" stroke-width="1"/>
+  <text x="22" y="30" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#3fb950">❯</text>
+  <text x="42" y="30" font-family="'Fira Code','Courier New',monospace" font-size="14" fill="#8b949e">always curious · always building · somewhere between a paper and a product</text>
+  <rect x="726" y="17" width="9" height="15" fill="#9D4EDD" class="cursor"/>
+</svg>
