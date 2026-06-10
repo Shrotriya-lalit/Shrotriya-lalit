@@ -1,10 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Lalit%20Shrotriya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Senior%20Data%20Scientist%20%7C%20AI%20Researcher%20%7C%20CFA%20L1%20Candidate&descAlignY=62&descSize=16&descColor=b39ddb" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Lalit%20Shrotriya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Data%20Scientist%20%7C%20AI%20Researcher%20%7C%20CFA%20L1%20Candidate&descAlignY=58&descSize=16&descColor=b39ddb" />
+
+<h1 align="center">Lalit Shrotriya</h1>
+<h4 align="center">Senior Data Scientist · AI Researcher · CFA L1 Candidate</h4>
 
 <div align="center">
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=9D4EDD&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I%27m+Lalit+%F0%9F%91%8B;AI+Researcher+%26+Data+Scientist;Agentic+AI+%C2%B7+RAG+%C2%B7+LLMs+%C2%B7+Production-grade;7+Publications+%C2%B7+CFA+Candidate+%C2%B7+OSS+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=9D4EDD&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I%27m+Lalit+%F0%9F%91%8B;AI+Researcher+%26+Data+Scientist;Agentic+AI+%C2%B7+RAG+%C2%B7+LLMs+%C2%B7+Open+Source;7+Publications+%C2%B7+CFA+Candidate+%C2%B7+OSS+Contributor" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -23,7 +26,7 @@
 
 ---
 
-## 🧠 About Me
+## &nbsp;✦&nbsp; hey, i'm lalit
 
 I'm drawn to problems that live at the edge of what AI can currently do.
 
@@ -37,7 +40,7 @@ When I'm not building, I'm studying for the CFA — because the better you under
 
 ---
 
-## 🚀 What I'm Building
+## &nbsp;✦&nbsp; what i'm working on
 
 | | Project | What it does |
 |:--:|---------|--------------|
@@ -50,51 +53,43 @@ When I'm not building, I'm studying for the CFA — because the better you under
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages · ML · Data**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark&titles=true" />
-</div>
+## &nbsp;✦&nbsp; the craft
 
 <div align="center">
 
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+**Languages · Data · ML**
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark&titles=true" />
+
+<br/><br/>
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 <br/>
 
 **Generative AI · LLMs · Agents**
 
-<div align="center">
-
-![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
-
-</div>
+![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
 
 <br/>
 
 **Backend · Infra · Cloud**
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,nginx,postgres,redis,aws,gcp,azure&theme=dark&titles=true" />
-</div>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,nginx,postgres,redis,aws,gcp,azure&theme=dark&titles=true" />
 
-<div align="center">
+<br/><br/>
 
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 
 </div>
 
@@ -102,7 +97,7 @@ When I'm not building, I'm studying for the CFA — because the better you under
 
 ---
 
-## 📊 GitHub Stats
+## &nbsp;✦&nbsp; github stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shrotriya-lalit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9" />
@@ -119,23 +114,17 @@ When I'm not building, I'm studying for the CFA — because the better you under
 
 ---
 
-## 📈 Metrics
+## &nbsp;✦&nbsp; activity
 
 <div align="center">
-  <img src="metrics/overview.svg" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="metrics/languages.svg" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrotriya-lalit&bg_color=0d1117&color=9D4EDD&line=9D4EDD&point=b39ddb&area=true&area_color=9D4EDD&hide_border=true" />
 </div>
 
 <br/>
 
 ---
 
-## 🐍 Contributions
+## &nbsp;✦&nbsp; contributions
 
 <div align="center">
   <picture>
@@ -147,16 +136,22 @@ When I'm not building, I'm studying for the CFA — because the better you under
 
 <br/>
 
+<div align="center">
+  <img width="55%" src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/main/profile-3d-contrib/profile-green.svg" alt="3D Contribution Graph" />
+</div>
+
+<br/>
+
 ---
 
-## 📄 Research & Publications
+## &nbsp;✦&nbsp; things i've written
 
 | Paper | Venue | Year |
 |-------|-------|------|
 | [Apache Spark in Healthcare: Data-Driven Innovations](https://dx.doi.org/10.14569/IJACSA.2023.0140665) | IJACSA · Q3 · 16 citations | 2023 |
 | [Real-Time Data Analysis: Architectures for Decision-Making](https://scholar.google.com/citations?user=90FqbB0AAAAJ) | IEEE ICPEEISC · 7 citations | 2023 |
 | [Brain Tumor Detection Using Advanced Deep Learning](https://doi.org/10.18280/ts.400508) | IIETA Traitement du Signal · Q3 | 2023 |
-| [Pneumothorax Detection: Mask-RCNN + Transfer Learning](https://doi.org/10.1016/j.mex.2024.102692) | Elsevier MethodsX · Scopus Q2 | 2024 |
+| [Pneumothorax Detection: Mask-RCNN + Transfer Learning](https://doi.org/10.1016/j.mex.2024.102692) | Elsevier MethodsX · Scopus Q1 | 2024 |
 | [Deep Learning for Hedging in Derivative Markets](https://doi.org/10.1109/ICISAA62385.2024.10829090) | IEEE ICISAA | 2024 |
 
 <div align="right">
@@ -167,10 +162,10 @@ When I'm not building, I'm studying for the CFA — because the better you under
 
 ---
 
-## 🏆 Recognition
+## &nbsp;✦&nbsp; a few things i'm proud of
 
 - won a firm-wide AI hackathon with an interview platform built in days, not weeks
-- published in elsevier, ieee and iieta before graduating
+- published in elsevier (Q1), ieee and iieta before graduating
 - ranked 2nd in my AI/ML program &nbsp;·&nbsp; topped business management
 - systems i've built are saving real money and handling real traffic
 - google cloud certified in generative AI
