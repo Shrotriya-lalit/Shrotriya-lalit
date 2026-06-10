@@ -103,12 +103,6 @@ When I'm not building, I'm studying for the CFA — because the better you under
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shrotriya-lalit&theme=dracula&no-bg=true&no-frame=true&column=6&margin-w=10&margin-h=10" />
-</div>
-
-<br/>
-
-<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shrotriya-lalit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrotriya-lalit&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D4EDD&text_color=c9d1d9" />
 </div>
