@@ -22,8 +22,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Kolkata
-          config_padding: 6%, 12%
-          config_width: 500
+          config_padding: 6%, 4%
+          config_width: 560
 
       - name: Languages
         uses: lowlighter/metrics@latest
