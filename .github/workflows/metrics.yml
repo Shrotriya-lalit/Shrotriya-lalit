@@ -1,0 +1,67 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 */8 * * *"
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+
+      - name: Overview + Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/overview.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Shrotriya-lalit
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Kolkata
+          config_padding: 6%, 10%
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Shrotriya-lalit
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, scss, less
+          plugin_languages_limit: 8
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_categories: markup, programming
+          config_timezone: Asia/Kolkata
+
+      - name: Coding Habits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Shrotriya-lalit
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          config_timezone: Asia/Kolkata
+
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Shrotriya-lalit
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_display: compact
+          config_timezone: Asia/Kolkata

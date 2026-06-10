@@ -83,12 +83,16 @@ When I'm not building, I'm studying for the CFA — because the better you under
 ## &nbsp;✦ &nbsp;github
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Shrotriya-lalit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrotriya-lalit&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D4EDD&text_color=c9d1d9" />
+  <img src="metrics/overview.svg" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Shrotriya-lalit&theme=tokyonight&hide_border=true&background=0d1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD" />
+  <img src="metrics/languages.svg" width="49%" />
+  <img src="metrics/habits.svg" width="49%" />
+</div>
+
+<div align="center">
+  <img src="metrics/achievements.svg" />
 </div>
 
 <br/>
