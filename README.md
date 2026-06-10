@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Lalit%20Shrotriya&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Senior%20Data%20Scientist%20%26%20AI%2FML%20Engineer%20%40%20JM%20Financial&descAlignY=60&descSize=18&descColor=ccc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Lalit%20Shrotriya&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Senior%20Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20JM%20Financial&descAlignY=60&descSize=18&descColor=ccc" />
 
 <div align="center">
 
@@ -48,9 +48,9 @@ class LalitShrotriya:
 | Project | Description | Impact |
 |---------|-------------|--------|
 | **ClawMetrics** | Agentic AI analytics platform — 13 custom function-calling tools over ClickHouse/PostgreSQL, autonomous multi-step reasoning, AI-authored dashboards | ₹35L/yr savings vs. Mixpanel |
-| **[Intellecto](https://github.com/Shrotriya-lalit/AI-Interview-Platform)** | Real-time AI interview platform with ML-driven scoring, low-latency ASR/TTS & anti-cheat detection | 🏆 Won Thrive-A-Thon 1.0 |
+| **[Intellecto](https://github.com/Shrotriya-lalit/AI-Interview-Platform)** | Real-time AI interview platform with ML-driven scoring, low-latency ASR/TTS + anti-cheat detection | 🏆 Won Thrive-A-Thon 1.0 |
 | **VisionGen3D** | 3D facial synthesis integrating Style-GAN + NeRF for defense/intelligence use-cases | Measurable gains over baseline NeRF |
-| **OpenPanel OSS** | BigQuery Warehouse Connector + Export API & Event Metadata enhancements | PRs [#389](https://github.com/Openpanel-dev/openpanel/pull/389) [#390](https://github.com/Openpanel-dev/openpanel/pull/390) [#391](https://github.com/Openpanel-dev/openpanel/pull/391) |
+| **OpenPanel OSS** | BigQuery Warehouse Connector + Export API + Event Metadata enhancements | PRs [#389](https://github.com/Openpanel-dev/openpanel/pull/389) [#390](https://github.com/Openpanel-dev/openpanel/pull/390) [#391](https://github.com/Openpanel-dev/openpanel/pull/391) |
 
 ---
 
