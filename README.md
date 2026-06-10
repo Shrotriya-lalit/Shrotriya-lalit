@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Lalit%20Shrotriya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=building%20at%20the%20edge%20of%20what%20AI%20can%20do&descAlignY=62&descSize=17&descColor=b39ddb" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Lalit%20Shrotriya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Senior%20Data%20Scientist%20%7C%20AI%20Researcher%20%7C%20CFA%20L1%20Candidate&descAlignY=62&descSize=16&descColor=b39ddb" />
 
 <div align="center">
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=9D4EDD&center=true&vCenter=true&random=false&width=700&lines=somewhere+between+research+papers+and+production+systems;building+AI+that+reasons+%E2%80%94+not+just+responds;curious+by+nature+%C2%B7+engineer+by+craft;always+learning+%C2%B7+always+shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=9D4EDD&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I%27m+Lalit+%F0%9F%91%8B;Data+Scientist+%26+AI%2FML+Engineer;Agentic+AI+%C2%B7+RAG+%C2%B7+LLMs+%C2%B7+Production-grade;4+Publications+%C2%B7+CFA+Candidate+%C2%B7+OSS+Contributor" alt="Typing SVG" />
 
 <br/><br/>
 
