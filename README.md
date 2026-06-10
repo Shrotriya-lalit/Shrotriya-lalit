@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Lalit%20Shrotriya&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20AI%20Researcher%20%7C%20CFA%20Candidate&descAlignY=60&descSize=18&descColor=ccc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Lalit%20Shrotriya&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=GenAI%20%7C%20RAG%20%7C%20Agentic%20AI%20%7C%20LLMs%20%7C%20AI%20Researcher%20%7C%20CFA%20L1%20Candidate%20%7C%202nd%20Rank%20CSE%20AI%2FML%20%2724&descAlignY=60&descSize=18&descColor=ccc" />
 
 <div align="center">
 
