@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Lalit%20Shrotriya&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Senior%20Data%20Scientist%20%7C%20AI%2FML%20Engineer%20%7C%20JM%20Financial&descAlignY=60&descSize=18&descColor=ccc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Lalit%20Shrotriya&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20AI%20Researcher%20%7C%20CFA%20Candidate&descAlignY=60&descSize=18&descColor=ccc" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=720&lines=Building+Production+AI+Systems+%40+JM+Financial+%F0%9F%9A%80;RAG+%7C+Agentic+AI+%7C+LLMs+%7C+Multi-Modal+AI;4+Peer-Reviewed+Publications+%7C+25%2B+Citations;CFA+Level+I+Candidate+%7C+Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=720&lines=I+build+AI+systems+that+think%2C+reason+and+act;RAG+%7C+Agentic+AI+%7C+LLMs+%7C+Multi-Modal;AI+Researcher+%7C+4+Publications+%7C+25%2B+Citations;CFA+Candidate+%7C+OSS+Contributor+%7C+Always+building" alt="Typing SVG" />
 
 <br/><br/>
 
