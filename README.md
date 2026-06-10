@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Lalit%20Shrotriya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Data%20Scientist%20%7C%20AI%20Researcher%20%7C%20CFA%20L1%20Candidate&descAlignY=58&descSize=16&descColor=b39ddb" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Lalit%20Shrotriya&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Senior%20Data%20Scientist%20%7C%20AI%20Researcher%20%7C%20CFA%20L1%20Candidate&descAlignY=55&descSize=16&descColor=b39ddb" />
 
 <div align="center">
 
@@ -137,7 +137,13 @@ When I'm not building, I'm studying for the CFA — because the better you under
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/main/metrics/calendar.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/main/metrics/fortune.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/main/metrics/topics.svg" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/main/metrics/notable.svg" width="80%" />
 </div>
 
 <br/>
@@ -188,4 +194,4 @@ When I'm not building, I'm studying for the CFA — because the better you under
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" />

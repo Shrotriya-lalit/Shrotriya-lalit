@@ -22,7 +22,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Kolkata
-          config_padding: 6%, 10%
+          config_padding: 6%, 12%
+          config_width: 500
 
       - name: Languages
         uses: lowlighter/metrics@latest
@@ -49,12 +50,27 @@ jobs:
           plugin_isocalendar_duration: half-year
           config_timezone: Asia/Kolkata
 
-      - name: Fortune
+      - name: Topics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics/fortune.svg
+          filename: metrics/topics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: Shrotriya-lalit
           base: ""
-          plugin_fortune: yes
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons
+          config_timezone: Asia/Kolkata
+
+      - name: Notable OSS Contributions
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/notable.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Shrotriya-lalit
+          base: ""
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_types: commit, pull_request
+          plugin_notable_repositories: yes
           config_timezone: Asia/Kolkata
