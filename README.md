@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Lalit%20Shrotriya&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=GenAI%20%7C%20RAG%20%7C%20Agentic%20AI%20%7C%20LLMs%20%7C%20AI%20Researcher%20%7C%20CFA%20L1%20Candidate%20%7C%202nd%20Rank%20CSE%20AI%2FML%20%2724&descAlignY=60&descSize=18&descColor=ccc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Lalit%20Shrotriya&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=I%20build%20AI%20that%20reasons.%20I%20ship%20code%20that%20scales.&descAlignY=60&descSize=17&descColor=ccc" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=720&lines=I+build+AI+systems+that+think%2C+reason+and+act;RAG+%7C+Agentic+AI+%7C+LLMs+%7C+Multi-Modal;AI+Researcher+%7C+4+Publications+%7C+25%2B+Citations;CFA+Candidate+%7C+OSS+Contributor+%7C+Always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=720&lines=I+don%27t+just+study+AI+%E2%80%94+I+ship+it.;Agentic+AI+%7C+RAG+%7C+LLMs+%7C+Production-grade;Researcher.+Engineer.+Hackathon+Winner.;Always+building.+Never+stopping." alt="Typing SVG" />
 
 <br/><br/>
 
@@ -20,36 +20,25 @@
 
 ---
 
-## 🧠 About Me
+## Hey, I'm Lalit 👋
 
-```python
-class LalitShrotriya:
-    role      = "Senior Data Scientist & AI/ML Engineer"
-    company   = "JM Financial Services Limited · Mumbai, India"
-    education = [
-        "B.Tech CSE (Hons. AI/ML) · SIT Pune  |  CGPA 9.00  |  Ranked 2nd",
-        "Diploma in Business Management · SIBM Pune  |  Topped DBM",
-    ]
-    certs     = ["CFA Level I Candidate (Aug 2026)", "Google Cloud Certified — GenAI Leader"]
-    research  = "AI Research Fellow @ SCAAI · 7 Publications · 25+ Citations"
+I build **Agentic AI** — systems that don't just respond, they reason, plan, and act.
 
-    current_focus = [
-        "Production RAG & Agentic AI systems at scale",
-        "LLM Orchestration — Vertex AI, AWS Bedrock, Ollama SLMs",
-        "Scalable data pipelines on GCP / GKE",
-        "Open Source — OpenPanel BigQuery Connector",
-    ]
-```
+From RAG pipelines and LLM orchestration across Vertex AI, Bedrock and Ollama, to real-time anomaly detection and event-driven data platforms — I work where **research meets production**. If it doesn't run in the real world under real load, it doesn't count.
+
+**Published** in Elsevier, IEEE and IIETA. **Ranked 2nd** in CSE AI/ML. **Won** a firm-wide AI hackathon. **Contributing** to open-source. **Studying** for the CFA.
+
+> *"The next frontier isn't generating answers — it's giving AI the right context to find them."*
 
 ---
 
-## 🚀 What I'm Building
+## ⚡ What I Build
 
 | Project | Description | Impact |
 |---------|-------------|--------|
-| **ClawMetrics** | Agentic AI analytics platform — 13 custom function-calling tools over ClickHouse/PostgreSQL, autonomous multi-step reasoning, AI-authored dashboards | ₹35L/yr savings vs. Mixpanel |
-| **[Intellecto](https://github.com/Shrotriya-lalit/AI-Interview-Platform)** | Real-time AI interview platform with ML-driven scoring, low-latency ASR/TTS + anti-cheat detection | 🏆 Won Thrive-A-Thon 1.0 |
-| **VisionGen3D** | 3D facial synthesis integrating Style-GAN + NeRF for defense/intelligence use-cases | Measurable gains over baseline NeRF |
+| **ClawMetrics** | Agentic analytics engine — 13 custom tools over ClickHouse/PostgreSQL, autonomous multi-step reasoning, AI-authored dashboards from natural-language queries | ₹35L/yr savings vs. Mixpanel |
+| **[Intellecto](https://github.com/Shrotriya-lalit/AI-Interview-Platform)** | Real-time AI interview platform — ML-driven scoring, ASR/TTS, anti-cheat, JWT/RBAC | 🏆 Won Thrive-A-Thon 1.0 |
+| **VisionGen3D** | 3D facial synthesis with Style-GAN + NeRF for defense/intelligence | Outperforms baseline NeRF |
 | **OpenPanel OSS** | BigQuery Warehouse Connector + Export API + Event Metadata enhancements | PRs [#389](https://github.com/Openpanel-dev/openpanel/pull/389) [#390](https://github.com/Openpanel-dev/openpanel/pull/390) [#391](https://github.com/Openpanel-dev/openpanel/pull/391) |
 
 ---
@@ -137,29 +126,25 @@ class LalitShrotriya:
 
 | Paper | Venue | Year |
 |-------|-------|------|
-| [Apache Spark in Healthcare: Data-Driven Innovations & Patient Care](https://dx.doi.org/10.14569/IJACSA.2023.0140665) | **IJACSA** (Q3) · 16 citations | 2023 |
+| [Apache Spark in Healthcare: Data-Driven Innovations](https://dx.doi.org/10.14569/IJACSA.2023.0140665) | **IJACSA** (Q3) · 16 citations | 2023 |
 | [Real-Time Data Analysis: Architectures for Decision-Making](https://scholar.google.com/citations?user=90FqbB0AAAAJ) | **IEEE ICPEEISC** · 7 citations | 2023 |
 | [Brain Tumor Detection Using Advanced Deep Learning](https://doi.org/10.18280/ts.400508) | **IIETA — Traitement du Signal** (Q3) | 2023 |
-| [Data Mining Approaches to Pneumothorax Detection: Mask-RCNN & Transfer Learning](https://doi.org/10.1016/j.mex.2024.102692) | **Elsevier MethodsX** (Scopus, Q2) | 2024 |
-| [Deep Learning Models for Hedging Strategies in Derivative Markets](https://doi.org/10.1109/ICISAA62385.2024.10829090) | **IEEE ICISAA** | 2024 |
+| [Pneumothorax Detection: Mask-RCNN + Transfer Learning](https://doi.org/10.1016/j.mex.2024.102692) | **Elsevier MethodsX** (Scopus Q2) | 2024 |
+| [Deep Learning for Hedging Strategies in Derivative Markets](https://doi.org/10.1109/ICISAA62385.2024.10829090) | **IEEE ICISAA** | 2024 |
 
 > **7 Publications · 25+ Citations · h-index: 2** &nbsp;|&nbsp; [Google Scholar](https://scholar.google.com/citations?user=90FqbB0AAAAJ&hl=en) &nbsp;·&nbsp; [ResearchGate](https://www.researchgate.net/profile/Lalit_Shrotriya)
 
 ---
 
-## 🏆 Awards & Certifications
+## 🏆 Recognition
 
-- 🥇 **Winner — JM Financials Thrive-A-Thon 1.0** (2025) · *Intellecto — AI Interview Platform*
-- ☁️ **Google Cloud Certified — Generative AI Leader**
-- 🚀 **Roadies Debut Award** — JM Financial Services Limited (Jan–Mar 2024)
-- 🎓 **Ranked 2nd · B.Tech CSE AI/ML** — Symbiosis Institute of Technology, Pune | CGPA 9.00
-- 📊 **DBM Topper** — SIBM Pune | CGPA 8.78
-- 📚 **AI Research Fellow** — Symbiosis Centre for Applied Artificial Intelligence (SCAAI)
+- 🥇 **Thrive-A-Thon 1.0 Winner** — *Intellecto, AI Interview Platform* (2025)
+- ☁️ **Google Cloud Certified** — Generative AI Leader
+- 🚀 **Roadies Debut Award** — Best newcomer, Jan–Mar 2024
+- 🎓 **Ranked 2nd · B.Tech CSE AI/ML** — CGPA 9.00 · SIT Pune
+- 📊 **DBM Topper** — CGPA 8.78 · SIBM Pune
+- 📚 **AI Research Fellow** — SCAAI, Symbiosis International University
 
 ---
-
-<div align="center">
-  <i>"The next frontier isn't generating answers — it's giving AI the right context to find them."</i>
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" />
