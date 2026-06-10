@@ -101,6 +101,14 @@ When I'm not building, I'm studying for the CFA — because the better you under
 
 <div align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season.svg" />
+    <img alt="3D contribution graph" src="profile-3d-contrib/profile-night-rainbow.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/output/github-snake.svg" />
     <img alt="contribution snake" src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/output/github-snake.svg" />
