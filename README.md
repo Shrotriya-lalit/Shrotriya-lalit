@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=9D4EDD&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I%27m+Lalit+%F0%9F%91%8B;AI+Researcher+%26+Data+Scientist;Agentic+AI+%C2%B7+RAG+%C2%B7+LLMs+%C2%B7+Open+Source;7+Publications+%C2%B7+CFA+Candidate+%C2%B7+OSS+Contributor" alt="Typing SVG" />
 
@@ -129,20 +129,14 @@ When I'm not building, I'm studying for the CFA — because the better you under
 ## &nbsp;✦&nbsp; contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/main/metrics/overview.svg" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
+  <img src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/main/metrics/overview.svg" width="49%" />
   <img src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/main/metrics/languages.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/main/metrics/achievements.svg" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/main/metrics/fortune.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/main/metrics/achievements.svg" width="49%" />
 </div>
 
 <br/>
