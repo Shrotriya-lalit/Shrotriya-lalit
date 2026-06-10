@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=9D4EDD&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I%27m+Lalit+%F0%9F%91%8B;Data+Scientist+%26+AI%2FML+Engineer;Agentic+AI+%C2%B7+RAG+%C2%B7+LLMs+%C2%B7+Production-grade;4+Publications+%C2%B7+CFA+Candidate+%C2%B7+OSS+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=9D4EDD&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I%27m+Lalit+%F0%9F%91%8B;AI+Researcher+%26+Data+Scientist;Agentic+AI+%C2%B7+RAG+%C2%B7+LLMs+%C2%B7+Production-grade;7+Publications+%C2%B7+CFA+Candidate+%C2%B7+OSS+Contributor" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -55,7 +55,7 @@ When I'm not building, I'm studying for the CFA — because the better you under
 **Languages · ML · Data**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark&titles=true" />
 </div>
 
 <div align="center">
@@ -88,7 +88,7 @@ When I'm not building, I'm studying for the CFA — because the better you under
 **Backend · Infra · Cloud**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,nginx,postgres,redis,aws,gcp,azure&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,nginx,postgres,redis,aws,gcp,azure&theme=dark&titles=true" />
 </div>
 
 <div align="center">
