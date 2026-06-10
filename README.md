@@ -59,10 +59,11 @@ When I'm not building, I'm studying for the CFA — because the better you under
 
 **Languages · Data · ML**
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark&titles=true" />
-
-<br/><br/>
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
@@ -84,12 +85,17 @@ When I'm not building, I'm studying for the CFA — because the better you under
 
 **Backend · Infra · Cloud**
 
-<img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,nginx,postgres,redis,aws,gcp,azure&theme=dark&titles=true" />
-
-<br/><br/>
-
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
 
@@ -114,17 +120,21 @@ When I'm not building, I'm studying for the CFA — because the better you under
 
 ---
 
-## &nbsp;✦&nbsp; activity
+## &nbsp;✦&nbsp; contributions
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrotriya-lalit&bg_color=0d1117&color=9D4EDD&line=9D4EDD&point=b39ddb&area=true&area_color=9D4EDD&hide_border=true" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrotriya-lalit&theme=tokyonight" alt="Contribution Summary" />
 </div>
 
 <br/>
 
----
+<div align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shrotriya-lalit&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shrotriya-lalit&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shrotriya-lalit&theme=tokyonight&utcOffset=5.5" />
+</div>
 
-## &nbsp;✦&nbsp; contributions
+<br/>
 
 <div align="center">
   <picture>
@@ -132,12 +142,6 @@ When I'm not building, I'm studying for the CFA — because the better you under
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/output/github-snake.svg" />
     <img alt="contribution snake" src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/output/github-snake.svg" />
   </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="55%" src="https://raw.githubusercontent.com/Shrotriya-lalit/Shrotriya-lalit/main/profile-3d-contrib/profile-green.svg" alt="3D Contribution Graph" />
 </div>
 
 <br/>
