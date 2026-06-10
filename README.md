@@ -12,9 +12,6 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=90FqbB0AAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Lalit_Shrotriya)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lalit.shrotriya@outlook.com)
-
-<br/><br/>
-
 ![Visitors](https://komarev.com/ghpvc/?username=Shrotriya-lalit&label=VISITORS&color=9D4EDD&style=for-the-badge&logo=github&logoColor=white)
 
 </div>
