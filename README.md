@@ -117,9 +117,9 @@ When I'm not building, I'm studying for the CFA — because the better you under
 ## &nbsp;✦&nbsp; recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#391](https://github.com/Openpanel-dev/openpanel/pull/391) in [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel)
-2. 💪 Opened PR [#390](https://github.com/Openpanel-dev/openpanel/pull/390) in [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel)
-3. 💪 Opened PR [#389](https://github.com/Openpanel-dev/openpanel/pull/389) in [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel)
+1. 🗣 Commented on [#391](https://github.com/Openpanel-dev/openpanel/pull/391#issuecomment-4710063689) in [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel)
+2. 💪 Opened PR [#395](https://github.com/Openpanel-dev/openpanel/pull/395) in [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel)
+3. 💪 Opened PR [#391](https://github.com/Openpanel-dev/openpanel/pull/391) in [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel)
 <!--END_SECTION:activity-->
 
 <br/>
