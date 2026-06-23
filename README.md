@@ -117,9 +117,9 @@ When I'm not building, I'm studying for the CFA — because the better you under
 ## &nbsp;✦&nbsp; recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com/NVIDIA/SkillSpector/pull/93) in [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
-2. 🗣 Commented on [#391](https://github.com/Openpanel-dev/openpanel/pull/391#issuecomment-4765833211) in [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel)
-3. 🗣 Commented on [#93](https://github.com/NVIDIA/SkillSpector/pull/93#issuecomment-4777469133) in [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+1. 🗣 Commented on [#95](https://github.com/NVIDIA/SkillSpector/pull/95#issuecomment-4781241094) in [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+2. 🎉 Merged PR [#93](https://github.com/NVIDIA/SkillSpector/pull/93) in [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+3. 🗣 Commented on [#391](https://github.com/Openpanel-dev/openpanel/pull/391#issuecomment-4765833211) in [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel)
 <!--END_SECTION:activity-->
 
 <br/>
