@@ -41,7 +41,7 @@ When I'm not building, I'm studying for the CFA — because the better you under
 | 🧠 | **ClawMetrics** | Agentic analytics engine — natural language in, dashboards and insights out. 13 custom tools over ClickHouse/PostgreSQL |
 | 🎙️ | **[Intellecto](https://github.com/Shrotriya-lalit/AI-Interview-Platform)** | AI-powered interviews — real-time voice, ML scoring, anti-cheat. Won Thrive-A-Thon 1.0 |
 | 👁️ | **VisionGen3D** | 3D face synthesis from scratch — Style-GAN meets NeRF, built for defense use-cases |
-| 🔗 | **OpenPanel OSS** | BigQuery connector + API enhancements for the open-source analytics platform |
+| 🔗 | **OpenPanel OSS** | OSS for the open-source analytics platform |
 
 <br/>
 
